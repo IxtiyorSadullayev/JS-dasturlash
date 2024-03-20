@@ -1,0 +1,3 @@
+1. O'z ma'lumotlaringizdan foydalanib o'zgaruvchilar yarating;
+2. Uyingizdagi barcha insonlarning ma'lumotlarini saqlovchi o'zgaruvchilar oching va uni ekranda hosil qiling;
+3. Do'kondagi bo'lishi mumkin bo'lgan ma'lumotlarni tahrirlang va o'zgaruvchilarga biriktiring;
